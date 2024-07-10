@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshitharajasagi" alt="varshitharajasagi" /></a> </p>
 
-- 🔭 I’m currently learning Excel,PowerBI and sql [ALL of my projects are available at] 
+- 🔭 I’m currently learning Excel,PowerBI and sql, python, [ALL of my projects are available at] github and linkedin
     
-(https://github.com/VarshithaRajasagi/jupiter-notebook.git)
+      (https://github.com/VarshithaRajasagi/jupiter-notebook.git)
 
 - 📫 How to reach me **varshithasagi@gmail.com**
 
